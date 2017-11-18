@@ -377,7 +377,7 @@ public class KitchenSinkController {
                 break;
             }
            	case "Beauty": {
-                templateMessage = "https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/23559503_1447115338729242_8483099598920599034_n.jpg?_nc_fx=fbkk1-2&_nc_eui2=v1%3AAeGuw-eh0UiRnSl6BMTWDqlddJN17OtWInync9wtc_v2yy2WxDLvgKjSEt05YcSppGn5uNYvEnsm1jhKt39o_bGzBTb-UfjxEDeyEHS8RX1XCw&oh=8715c84886d82c6f3327a678b8db0da3&oe=5A8D9AA1"
+                templateMessage = "https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/23559503_1447115338729242_8483099598920599034_n.jpg?_nc_fx=fbkk1-2&_nc_eui2=v1%3AAeGuw-eh0UiRnSl6BMTWDqlddJN17OtWInync9wtc_v2yy2WxDLvgKjSEt05YcSppGn5uNYvEnsm1jhKt39o_bGzBTb-UfjxEDeyEHS8RX1XCw&oh=8715c84886d82c6f3327a678b8db0da3&oe=5A8D9AA1";
                 this.reply(replyToken, templateMessage);
                 break;
             }
