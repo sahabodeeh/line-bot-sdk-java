@@ -14,7 +14,7 @@
 # under the License.
 
 line.bot:
-  channel-token: 'vHIhijw53xPZeHm21+WTxjPNr90dY0Go76QTVO+o5s2EFUkKW9uVtuYJVivXXJAdS1g4H+ANd0UsgonG2u4iusI7rF1O/pE7tPrWR8wdvsDG6NmkLqLSc/6hIniTyDHl3MyiWL1jX79oQJl+QoIDrQdB04t89/1O/w1cDnyilFU='
+  channel-token: 'w4BLGhPvFDxUyg2MRyxKV5eNgAgRkXByfEHJPe14NKVhSGqlFgZ46fyfi8QIJsH9S1g4H+ANd0UsgonG2u4iusI7rF1O/pE7tPrWR8wdvsAeqiT7DTkqbVDatdGMse4GAg/0ngWwXmIBA5I5M60URQdB04t89/1O/w1cDnyilFU='
   channel-secret: 'fd2bb9538868bc480e71a5e1eb4f0031'
   handler.path: /callback
 
