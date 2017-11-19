@@ -295,9 +295,9 @@ public class KitchenSinkController {
                         Arrays.asList(
                                 new URIAction("Go to D-Tor-Jai FB",
                                               "https://www.facebook.com/dtorjaiofficial/"),
-                                new PostbackAction("1st Girl today",
+                                new URIAction("1st Girl today",
                                                    "https://www.facebook.com/dtorjaiofficial/photos/ms.c.eJxFjtsNADEIwzY6JbwK~_y92Eqj013IMNCs4AWYUUB8HiLtAlOcCSgPFgkxXD19D0cD8TZiRVa9R3RDdKzYNrqFj7B~_Y6LlRVA2IZ~;TEZAHHsB8Mxiwv.bps.a.1449050978535678.1073742946.1142775052496607/1449051001869009/?type=3&theater"),
-                                new PostbackAction("2nd Girl today",
+                                new URIAction("2nd Girl today",
                                                    "https://www.facebook.com/dtorjaiofficial/photos/ms.c.eJxFzNsNADEIA8GOTmDe~;TcWXVDgdzU2qwYiKUyiXOzjFzIY5fkCF0gdRSOqhY~_IFhiRfaobfiHEO7kCtuGeWh5HuR8L.bps.a.1447278068712969.1073742941.1142775052496607/1447278075379635/?type=3&theater"),
                                 new MessageAction("Say Best things",
                                                   "NST5 Kod InW")
